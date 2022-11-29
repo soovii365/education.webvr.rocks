@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://km.del.ac.id/sitemap.xml
+Sitemap: https://education.webvr.rocks/sitemap.xml
